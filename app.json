@@ -6,7 +6,7 @@
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {Caseyrhodes~Ph5nkK5Q#NnsXN9GH404kLNprmhwZmsEFBQ8eMfuX3yX2glAGXPA
       "description": "Put your SESSION_ID here.",
       "value": ""
     },
@@ -14,11 +14,11 @@
       "description": "Bot command prefix (example: ., !, #)",
       "value": "."
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {+263774499994)
       "description": "Owner's phone number in international format (without +).",
-      "value": "2348109263390"
+      "value": "263774499994"
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": {Beven)
       "description": "Owner's display name.",
       "value": "ElitePro"
     },
